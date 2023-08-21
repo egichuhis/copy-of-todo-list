@@ -16,7 +16,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 TO-DO LIST ](#-to-do-list-)
+- [📖 COPY OF TO-DO LIST ](#-copy-of-to-do-list-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TO-DO LIST <a name="about-project"></a>
+# 📖 COPY OF TO-DO LIST <a name="about-project"></a>
 
-**TO-DO LIST** is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
+**COPY OF TO-DO LIST** is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
 ## 🛠 Built With <a name="built-with"></a>
 
