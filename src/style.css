@@ -1,0 +1,98 @@
+#main-div {
+  background: #f6f6f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#list-container {
+  width: 500px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  padding-right: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+#refresh-img {
+  width: 15px;
+  height: 15px;
+}
+
+#return-img {
+  width: 15px;
+  height: 15px;
+}
+
+#options-img {
+  width: 15px;
+  height: 15px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: solid 1px #f6f6f6;
+}
+
+#list-items-div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#add-to-list-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+#list-title-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+#add-item-input {
+  width: 90%;
+  font-size: 18px;
+  border: none;
+}
+
+#add-item-input:focus {
+  color: black;
+  outline: none;
+}
+
+#list-footer-div {
+  color: grey;
+}
+
+#list-footer-div h4 {
+  color: red;
+  border: grey solid 1px;
+  padding: 2px;
+}
+
+#list-footer-div h4:hover {
+  color: white;
+  background-color: red;
+}
+
+.edit-input {
+  width: 500px;
+  border: none;
+  outline: none;
+  font-size: inherit;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+  color: blue;
+}
