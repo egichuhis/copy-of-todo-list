@@ -18,9 +18,9 @@ export const createHeading = (text) => {
   return heading;
 };
 
-export const createImage = (id, src) => {
+export const createImage = (className, src) => {
   const image = document.createElement('img');
-  image.id = id;
+  image.className = className;
   image.src = src;
   return image;
 };
